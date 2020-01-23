@@ -1,0 +1,14 @@
+{
+  "name": "dgdkh",
+  "version": "1.0.0",
+  "description": "kdhjdfgd",
+  "main": "dffgfdbf",
+  "scripts": {
+    "test": "dfgdg"
+  },
+  "author": "tsagh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
